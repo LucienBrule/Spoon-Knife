@@ -1,0 +1,2 @@
+#My project progress:
+- So far I have not contributed any code toward my project grade in intro to open source. However this week I met with the hackRPI team to see if anything needed to be done. There's a lot of work they need done by November, so I'll contribute code to their repositories for my project grade. Alternativley my friends and I are going to hackMIT this weekend, if we make something interesting that might become our project.
